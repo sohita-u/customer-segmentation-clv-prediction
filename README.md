@@ -136,4 +136,4 @@ jupyter notebook notebooks/Customer_Clustering.ipynb
 
 ## Author
 
-**So** — Electronics & Communication Engineering
+**Sohita U** — BE(Electronics & Communication Engineering) 
