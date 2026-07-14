@@ -21,7 +21,7 @@ The goal: give a retail business a data-driven way to prioritize marketing spend
 | Highest-value segment (avg. CLV) | VIP — £1,197.02 |
 | Segment driving the most **total** revenue | Potential (1,489 customers) |
 
-**Key insight:** average CLV alone is misleading. VIP customers are worth the most individually, but the mid-tier **Potential** segment is 3x larger, so it generates more *total* forecast revenue (~£1.32M vs. VIP's ~£0.64M) — meaning upsell campaigns aimed at Potential customers likely beat VIP-only retention spend on aggregate ROI.
+**Key insight:** Average CLV alone is misleading. VIP customers are worth the most individually, but the mid-tier **Potential** segment is 3x larger, so it generates more *total* forecast revenue (~£1.32M vs. VIP's ~£0.64M) — meaning upsell campaigns aimed at Potential customers likely beat VIP-only retention spend on aggregate ROI.
 
 ---
 
